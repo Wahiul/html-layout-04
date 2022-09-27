@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    width: 70%;
+    height: 100px;
+    background-color: #47B5FF;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.menu{
+    width: 30%;
+    height: 100px;
+    background-color: #06283D;
+    color: white;
+    text-align: center;
+    float: right;
+}
+.Header-Bar{
+    background-color: #562B08;
+    color: aliceblue;
+    height: 80px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.content{
+    overflow: hidden;
+}
+.left-content{
+    width: 20%;
+    height: 400px;
+    background-color: darkmagenta;
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+.middle-content{
+    width: 60%;
+    background-color: darkgoldenrod;
+    float: left;
+    height: 400px;
+}
+.right-content{
+    width: 20%;
+    background-color: darkslategray;
+    float: left;
+    height: 400px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+.top{
+    height: 30%;
+    background-color: darkgray;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+.center{
+    height: 40%;
+    background-color: #E8A0BF;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+.bottom{
+    height: 30%;
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+footer{
+    background-color: #42855B;
+    height: 60px;
+    color: aliceblue;
+    text-align: center;
+}
